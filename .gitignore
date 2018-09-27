@@ -1,0 +1,8 @@
+data/
+logs/
+model/
+weight/
+test/
+*.pyc
+.DS_Store
+.idea/
